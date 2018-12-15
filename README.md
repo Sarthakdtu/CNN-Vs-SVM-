@@ -1,6 +1,7 @@
-# Convolution Neural Network vs Support Vector Machine
+# CNN VS SVM
+Convolution Neural Network vs Support Vector Machine
                            
-# IMAGE RECOGNITION
+ IMAGE RECOGNITION
 
 
                                 
